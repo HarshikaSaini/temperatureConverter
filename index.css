@@ -2,7 +2,7 @@ body{
     background-color: rgb(208, 241, 241);
 }
 .container{
-    height: 14rem;
+    height: 12rem;
     width: 30rem;
     border: 2px solid black;
     margin: auto;
